@@ -1,7 +1,7 @@
 ![Banner-Github-Adriian](Banner-Github-Adriian.jpg)
 ## Hi, I'm Adriian, a Skilled Backend-end Developer
 
-I have over 4 years of experience in developing API and scripts with a strong focus on Python, Django, Django Rest Framework, FastAPI, AWS and other related technologies.
+I have over 6 years of experience in developing API and scripts with a strong focus on Python, Django, Django Rest Framework, FastAPI, AWS and other related technologies.
 
 ## Skills 🦾
 
